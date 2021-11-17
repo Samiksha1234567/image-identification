@@ -1,0 +1,21 @@
+body{
+    background-image:url("puzzle.jpg") ; 
+    background-size: cover;
+}
+h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 70px;
+    color: lawngreen;
+}
+p{
+    color: aqua;
+}
+.name_of_objects {
+    font-family: 'Yuji Mai', serif;  
+    font-size: 25px;
+    color:yellow;
+}
+label{
+    font-size: 35px;
+    color:aqua ;
+}
